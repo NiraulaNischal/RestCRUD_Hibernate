@@ -12,6 +12,7 @@ import java.util.List;
 
 /**
  * Root resource (exposed at "myresource" path)
+ * add some comments....
  */
 @Path("/customers")
 public class MyResource {
